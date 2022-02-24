@@ -1,0 +1,2 @@
+class Chamba < ApplicationRecord
+end

@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  location: MyString
+  description: MyString
+  organizationo: MyString
+  salary: 1
+  puesto: MyString
+  requerimientos: MyString
+  etiquetas: MyString
+  expiracion: 2022-02-28
+
+two:
+  title: MyString
+  location: MyString
+  description: MyString
+  organizationo: MyString
+  salary: 1
+  puesto: MyString
+  requerimientos: MyString
+  etiquetas: MyString
+  expiracion: 2022-02-28

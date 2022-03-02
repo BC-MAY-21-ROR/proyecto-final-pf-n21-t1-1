@@ -1,0 +1,4 @@
+class Chambitum < ApplicationRecord
+end
+
+
